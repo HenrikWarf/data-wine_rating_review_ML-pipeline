@@ -11,7 +11,7 @@
 2. Is there a relationship between price and how good a wine is (rating)
 3. Can we predict the rating based on the data we have about the different wines
 
-### Contents - The Pipeline
+### Contents
 
 1. Import libraries and packages for use throughout the pipeline
 2. Check for and define the continous data variables
