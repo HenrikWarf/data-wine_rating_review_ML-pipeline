@@ -19,9 +19,12 @@
 4. Investigate missing data and drop selected rows and column
 5. For categorical variables - create dummy variables
 6. Imputation
-7. Split data into explanatory and response variables
-8. Principal Component Analysis
-9. Create training and test data sets
-10. Train, Predict and Score
-12. Conclusions
-13. Discussion
+7. Exploratory analysis - Answering questions 1 & 2
+8. Machine Learning - Question 3
+9. Split data into explanatory and response variables
+10. Principal Component Analysis
+11. Create training and test data sets
+12. Learning models, Predict and Score
+13. Question 3 - Results & Comments
+14. Summary
+
