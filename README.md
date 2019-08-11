@@ -1,4 +1,4 @@
-# Predicting a Wine Rating
+# Predicting Wine Rating
 
 ### The Data and Goal
 
